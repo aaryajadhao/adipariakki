@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <title>A Fake Website</title> 
+
+  <meta name="description" content="This is a trial website"> 
+
+  <meta name="keywords" content="learning, coding, html, trial, website, how to make website, github"> 
+
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"> 
+
+  <meta property="og:site_name" content="adipariakki"> 
+
+  <meta property="og:title" content="A Fake Website"> 
+
+  <meta property="og:url" content="https://tryhackme.com"> 
+
+  <meta charset="utf-8">
+
+  <meta name="color-scheme" content="dark" />
+
+</head>
+
+<body>
+
+    <header><pre>Home  Community  About Us  <form id="form"> 
+
+  <input type="search" id="query" name="q" placeholder="Search...">
+
+  <button>Search</button>
+
+</form> </pre></header>
+
+<hr/>
+
+    <div><h1>This Is A Fake Website, Made just for trial</h1></div>
+
+    </br>
+
+    <div><p>learning to host website using github</p></div>
+
+    </br>
+
+    <div><p 
+
+    <font face = "Bedrock" size = "5">How does it feel like when you are a programmer?</font><br />
+
+   </body></p></div>
+
+   <div><p> <font color = "red">Adi, Pari, And Me (Akki), We were in JNV from 2016, this website is a proof that this trio existed...</font> </p></div>
+
+   </br>
+
+   <div><p> <i>This Website is hosted on November 12, 2022. Using GitHub, this was my first time doing it.</i></p></div>
+
+   <hr/>
+
+   <footer><pre>Nice Time Using It
+
+Contact me on instagram @akhileshkrishnramila</pre></footer>
+
+</body>
+
+</html>
+
